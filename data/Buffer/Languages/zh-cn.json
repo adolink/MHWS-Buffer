@@ -80,37 +80,37 @@
                 "sticky": "黏着",
                 "frenzy": "狂龙症",
                 "frozen": "冻结",
-                "bubble": "Bubble (*)",
+                "bubble": "泡沐",
                 "all": "全部 "
             }
         },
         "item_buffs": {
             "title": "道具增益",
-            "might_seed": "Might seed (TN)",
+            "might_seed": "怪力种子",
             "might_pill": "怪力药丸",
-            "adamant_seed": "Adamant seed (TN)",
-            "adamant_pill": "硬化药丸",
-            "demon_drug": "Demon drug (TN)",
+            "adamant_seed": "忍耐种子",
+            "adamant_pill": "忍耐药丸",
+            "demon_drug": "鬼人药",
             "demon_powder": "鬼人粉尘",
             "hardshell_powder": "硬化粉尘",
             "mega_demondrug": "鬼人药G",
-            "armor_skin": "Armor skin (TN)",
+            "armor_skin": "硬化药",
             "mega_armorskin": "硬化药G",
             "cool_drink": "冷饮",
             "hot_drink": "热饮",
             "dash_juice": "强走药",
-            "imunizer": "免疫剂"
+            "imunizer": "活力剂"
         },
         "mantles": {
-            "title": "Mantles(TN)",
-            "instant_cooldown": "Instant cooldown(TN)",
-            "unlimited_duration": "Unlimited duration(TN)"
+            "title": "衣装",
+            "instant_cooldown": "立即冷却",
+            "unlimited_duration": "无限持续"
         },
-        "invincible": "Invincible(*)",
-        "invincible_tooltip": "You will not take any damage, knockback, flinch, or be affected by any status ailments.(*)",
+        "invincible": "无敌",
+        "invincible_tooltip": "免疫所有伤害、击退、硬直和异常状态。",
         "unlimited_sharpness": "无限锋利度",
         "unlimited_consumables": "无限消耗品",
-        "unlimited_slingers": "无限弹药"
+        "unlimited_slingers": "无限投射器弹药"
     },
     "great_sword": {
         "title": "大剑",
@@ -161,7 +161,7 @@
     },
     "hunting_horn": {
         "title": "狩猎笛",
-        "unlimited_echo_bubbles": "Unlimited echo bubbles"
+        "unlimited_echo_bubbles": "无限响玉"
     },
     "lance": {
         "title": "长枪",
