@@ -17,8 +17,8 @@
         "disable_all": "全部禁用",
         "enabled_buffs": "启用的增益",
         "nothing_enabled": "无增益被启用",
-        "character_bonus_stats": "Use bonus mode for character stats(*)",
-        "character_bonus_stats_tooltip": "In bonus mode, the values set will be treated as bonus values added to the base stats, rather than setting the stats directly.(*)",
+        "character_bonus_stats": "在角色状态数值中使用附加模式",
+        "character_bonus_stats_tooltip": "在附加模式中，设定的数值将额外附加到基础数值上，而不是直接设定基础数值。",
         "disable": "禁用",
         "bindings": {
             "title": "快捷键",
@@ -45,7 +45,7 @@
         "title": "杂项",
         "akuma": {
             "title": "豪鬼",
-            "instant_drive_gauge": "即时驱动计量表",
+            "instant_drive_gauge": "瞬满斗气槽",
             "gou_hadoken_max_level": "豪波动拳最大等级"
         },
         "water_gun": {
@@ -131,23 +131,23 @@
             "critical_chance": "暴击率",
             "elemental_attack": "属性攻击力",
             "defence_attributes": {
-                "title": "Elemental Resistances(*)",
-                "value": "%s value(*)",
-                "fire_enable": "Fire elemental resistance(*)",
-                "water_enable": "Water elemental resistance(*)",
-                "ice_enable": "Ice elemental resistance(*)",
-                "thunder_enable": "Thunder elemental resistance(*)",
-                "dragon_enable": "Dragon elemental resistance(*)"
+                "title": "属性耐性",
+                "value": "%s耐性值",
+                "fire_enable": "火耐性",
+                "water_enable": "水耐性",
+                "ice_enable": "冰耐性",
+                "thunder_enable": "雷耐性",
+                "dragon_enable": "龙耐性"
             },
             "element": {
                 "title": "武器属性",
                 "none": "无",
-                "fire": "火属性",
-                "water": "水属性",
-                "ice": "冰属性",
-                "thunder": "雷属性",
-                "dragon": "龙属性",
-                "poison": "中毒",
+                "fire": "火",
+                "water": "水",
+                "ice": "冰",
+                "thunder": "雷",
+                "dragon": "龙",
+                "poison": "毒",
                 "paralyze": "麻痹",
                 "sleep": "睡眠",
                 "blast": "爆破"
@@ -176,7 +176,7 @@
         "title": "剑盾"
     },
     "dual_blades": {
-        "title": "双刀",
+        "title": "双剑",
         "demon_gauge": "鬼人槽全满",
         "demon_boost": "激活鬼人强化"
     },
@@ -210,7 +210,7 @@
         "unrestricted_charge_tooltip": "可以在某些原本不允许充能的动作中充能（如蓄力攻击中，收刀状态）"
     },
     "hammer": {
-        "title": "锤子",
+        "title": "大锤",
         "charge_level": "蓄力等级",
         "super_charge_level": "浑身蓄力等级",
         "instant_charge": "立即蓄力"
@@ -236,12 +236,12 @@
         "charge_level": "锁定蓄力等级",
         "all_arrow_types": "全强化瓶解锁",
         "unlimited_bottles": "强化瓶无限使用",
-        "tetrad_shot_active": "Tetrad shot support active (*)",
+        "tetrad_shot_active": "强四射击辅助激活",
         "unlimited_bladescale": "无限刃鳞瓶",
         "max_trick_arrow_gauge": "特殊箭计量槽全满"
     },
     "light_bowgun": {
-        "title": "轻弩",
+        "title": "轻弩炮",
         "max_special_ammo": "无限特殊弹药",
         "max_rapid_shot": "速射最大连发数",
         "max_eagle_shot": "无限集中特效弹",
@@ -249,14 +249,14 @@
         "unlimited_ammo": "无限弹药",
         "unlimited_bladescale": "无限刃鳞弹",
         "no_reload": "无需装填",
-        "tetrad_shot_active": "Tetrad shot support active (*)",
+        "tetrad_shot_active": "强四射击辅助激活",
         "no_recoil": "无后座力",
         "no_knockback": "无后退",
         "shell_level": "弹药等级",
         "all_rapid_fire": "全弹种速射"
     },
     "heavy_bowgun": {
-        "title": "重弩",
+        "title": "重弩炮",
         "max_special_ammo": "无限特殊弹药",
         "max_wyvern_howl": "无限龙热机关龙弹",
         "max_gatling_hits": "最大命中数",
@@ -264,7 +264,7 @@
         "unlimited_ammo": "无限弹药",
         "unlimited_bladescale": "无限刃鳞弹",
         "no_reload": "无需装填",
-        "tetrad_shot_active": "Tetrad shot support active (*)",
+        "tetrad_shot_active": "强四射击辅助激活",
         "no_recoil": "无后座力",
         "no_knockback": "无后退",
         "shell_level": "弹药等级"
@@ -278,7 +278,7 @@
         "axe_enhanced": "强化斧形态"
     },
     "switch_axe": {
-        "title": "斩击斧",
+        "title": "斩斧",
         "max_charge": "最大充能",
         "max_sword_charge": "剑形态最大充能",
         "powered_axe": "强化斧形态"
